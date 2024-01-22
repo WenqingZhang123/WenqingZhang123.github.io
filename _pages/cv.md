@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my C.V. [here](https://ethanzhang.cloud/files/CV.pdf).
+Please download my C.V. [here](https://ethanzhang.cloud/files/Wenqing_Zhang_Resume.pdf).
 
 Education
 ======
