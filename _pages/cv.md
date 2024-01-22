@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please download my C.V. [here](https://ethanzhang.cloud/files/CV.pdf).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
